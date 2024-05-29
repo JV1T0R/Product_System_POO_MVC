@@ -1,0 +1,8 @@
+Desenvolva um sistema que permita cadastrar produtos com atributos como nome, preço e quantidade.
+Permita que os usuários consultem produtos pelo nome e atualizem a quantidade em estoque.
+
+A seguir, apresente um caso de uso testando sua aplicação;
+
+Funcionalidades adicionais são bem-vindas à melhoria do sistema.
+
+Obs: partes difíceis devem incluir comentários explicativos;
